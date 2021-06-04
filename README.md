@@ -1,1 +1,1 @@
-![](image weather deatils.PNG)
+![](image(weather deatils).PNG)
